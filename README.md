@@ -2,6 +2,9 @@
 
 # 🔑 fido2-yubikey-demo
 
+[![CI](https://github.com/bvlik/fido2-yubikey-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/bvlik/fido2-yubikey-demo/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 **The cryptographic heart of FIDO2 / WebAuthn, implemented and explained.**
 A self-contained, runnable demo that creates a credential, signs an authentication assertion (as a YubiKey would), and verifies it the way a relying party does — including a demonstration of **why FIDO2 is phishing-resistant**.
 
